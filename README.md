@@ -75,5 +75,3 @@ cine-go/
 ├── requirements.txt    # Python dependencies
 └── README.md
 ```
-
-```
